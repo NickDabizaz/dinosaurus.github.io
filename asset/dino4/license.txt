@@ -1,0 +1,11 @@
+Model Information:
+* title:	Suchominus - LowPoly
+* source:	https://sketchfab.com/3d-models/suchominus-lowpoly-da4105b90c8b4db29739b1f7d49bbaac
+* author:	pikabobalex (https://sketchfab.com/pikabobalex)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Suchominus - LowPoly" (https://sketchfab.com/3d-models/suchominus-lowpoly-da4105b90c8b4db29739b1f7d49bbaac) by pikabobalex (https://sketchfab.com/pikabobalex) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fences Concretes
+* source:	https://sketchfab.com/3d-models/fences-concretes-810ffa06f3c1483ca73498582184e14c
+* author:	Spacesea (https://sketchfab.com/-Spacesea-)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fences Concretes" (https://sketchfab.com/3d-models/fences-concretes-810ffa06f3c1483ca73498582184e14c) by Spacesea (https://sketchfab.com/-Spacesea-) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

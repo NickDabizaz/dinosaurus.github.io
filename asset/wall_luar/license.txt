@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roman Wall (Free)
+* source:	https://sketchfab.com/3d-models/roman-wall-free-e72fecb250464d3ca76ac4bcba56248f
+* author:	wolfgar74 (https://sketchfab.com/wolfgar74)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roman Wall (Free)" (https://sketchfab.com/3d-models/roman-wall-free-e72fecb250464d3ca76ac4bcba56248f) by wolfgar74 (https://sketchfab.com/wolfgar74) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
